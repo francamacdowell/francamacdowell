@@ -6,7 +6,7 @@
 <br />
 <br />
 
-Hi there, I'm **França Mac Dowell**, a **Data Professional**, more specifically a **Data Engineer**, I'm from Brazil 🚀 and Rick and Morty fan 😂.
+Hi there, I'm **França Mac Dowell**, a **Data Professional**, more specifically a **Data Engineer**, I'm from Brazil 🚀, adept of stoicism ✌️ and Rick and Morty fan 😂.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/cloudJewy8RUlDm5eG/giphy.gif" />
 
