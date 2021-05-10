@@ -12,7 +12,7 @@ Hi there, I'm **França Mac Dowell**, a **Data Professional**, more specifically
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a Data Engineer at [ElixirAI](https://elixirai.com.br/) working on Big Data Platform and Analytics on Retail and Industry;
+- 👨🏽‍💻 I’m currently a Data Engineer at PicPay working on Big Data Platform and Analytics;
 - 🎶 RAP is my favorit kind of music;
 - 📚 I’m pursuing a Bachelor's degree in Computer Science;
 - 💬 Ask me about anything, I am happy to help;
