@@ -6,15 +6,13 @@
 <br />
 <br />
 
-Hi there, I'm **França Mac Dowell**, a **Data Professional**, more specifically a **Data Engineer**, I'm from Brazil 🚀, adept of Stoicism ✌️ and Rick and Morty fan 😂.
+Hi there, I'm **França Mac Dowell**, working currently at Kanastra as Engineer Manager.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/cloudJewy8RUlDm5eG/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a Data Engineer at PicPay working on Big Data Platform and Analytics;
 - 🎶 RAP is my favorit kind of music;
-- 📚 I’m pursuing a Bachelor's degree in Computer Science;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via francamacdowell@gmail.com to reach me.
 
