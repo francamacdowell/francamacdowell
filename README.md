@@ -6,13 +6,12 @@
 <br />
 <br />
 
-Hi there, I'm **França Mac Dowell**, working currently at Kanastra as Engineer Manager.
+Hi there, I'm **França Mac Dowell**, working currently at Kanastra as Engineering Manager.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/cloudJewy8RUlDm5eG/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 🎶 RAP is my favorit kind of music;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via francamacdowell@gmail.com to reach me.
 
